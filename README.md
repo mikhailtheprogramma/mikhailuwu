@@ -13,8 +13,6 @@ The name is Mikhail :3 and sometimes i feel like programming sum fun stuff! Plea
 > If you feel enraged by my existence, then I consider it a job well done!
 
 ### Active projects
-Currently I am working on multiple projects listed below
-
 Highlighted below are active projects that I am working on.
 
 | **project** | **priority** | **repository**                                                       | **status**                                                    |
@@ -36,3 +34,5 @@ This section contains data representations of my contributions and language stac
 </a>
 
 <br>Credit to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the data visualization!
+
+![oh noo cat attack!!!](cat.png)
