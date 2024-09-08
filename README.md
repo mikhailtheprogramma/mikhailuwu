@@ -22,3 +22,15 @@ Currently I am working on multiple projects listed below
 
 ### Coming repositories
 Studies will occupy a large portion of my time, but I will try to post more repo stuff in the coming future and continue maintaining safeheap, as I feel the project is worth my time (unlike bad faith actors)!
+
+### Data
+This section contains data representations of my contributions and language stack.
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikhailuwu&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikhailuwu&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+</a>
+
+<br>Credit to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the data visualization!
