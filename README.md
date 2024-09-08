@@ -15,6 +15,8 @@ The name is Mikhail :3 and sometimes i feel like programming sum fun stuff! Plea
 ### Active projects
 Currently I am working on multiple projects listed below
 
+Highlighted below are active projects that I am working on.
+
 | **project** | **priority** | **repository**                                                       | **status**                                                    |
 |-------------|--------------|----------------------------------------------------------------------|---------------------------------------------------------------|
 | safeheap    | 1            | [mikhailuwu/safeheap](https://github.com/mikhailuwu/safeheap)        | ![Static Badge](https://img.shields.io/badge/Not--ready-red)  |
