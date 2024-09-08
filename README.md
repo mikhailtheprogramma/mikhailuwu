@@ -35,4 +35,4 @@ This section contains data representations of my contributions and language stac
 
 <br>Credit to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the data visualization!
 
-![oh noo cat attack!!!](cutie.png)
+<img src="cutie.png" alt="drawing" height="200px"/>
